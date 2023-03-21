@@ -1,0 +1,5 @@
+ydata-profiling
+pandas
+fastapi
+uvicorn[standard]
+python-multipart
